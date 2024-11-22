@@ -1,16 +1,34 @@
-## Hi there 👋
+# 👩🏻‍💻Yasmin Gonçalves
 
-<!--
-**yasmngoncalves/yasmngoncalves** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+`Front-end Developer`
 
-Here are some ideas to get you started:
+Oi, eu sou Yasmin Gonçalves, tenho 24 anos e sou de São Paulo. Sou formada em Design Gráfico e atualmente estou cursando minha segunda graduação em Engenharia da Computação na UNIVESP. Hoje, gosto de usar minhas experiências anteriores para desenvolver sites e aplicações web que são funcionais, intuitivos e visuais.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Linguagens e Tecnologias
+
+<div style="display: inline_block">
+    <img style="align: center" width="40" alt="HTML5" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg"/>
+    <img style="align: center" width="40" alt="css3" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" />
+    <img style="align: center" height="35" width="40" alt="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+    <img style="align: center" width="40" alt="Bootstrap" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" />      
+</div>
+
+---
+
+<div>
+    <a href="" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
+    <a href="" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+    <a href="" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+    <a href="" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+</div>
+
+---
+
+<div style="display: flex; justify-content: space-between; gap: 20px;">
+    <a href="https://github.com/yasmngoncalves/Projeto-EcoAventureiros">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=yasmngoncalves&repo=Projeto-EcoAventureiros&theme=radical" />
+    </a>
+    <a href="https://github.com/yasmngoncalves/github-readme-stats">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasmngoncalves&layout=compact&theme=radical" />
+    </a>
+</div>
