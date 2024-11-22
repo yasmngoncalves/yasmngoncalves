@@ -24,6 +24,8 @@ Oi, eu sou Yasmin Gonçalves, tenho 24 anos e sou de São Paulo. Sou formada em 
     </a>
 </div>
 
+---
+
 <div>
     <a href="" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
     <a href="" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
@@ -31,4 +33,3 @@ Oi, eu sou Yasmin Gonçalves, tenho 24 anos e sou de São Paulo. Sou formada em 
     <a href="" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div>
 
----
