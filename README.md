@@ -13,7 +13,7 @@ Oi, eu sou Yasmin Gonçalves, tenho 24 anos e sou de São Paulo. Sou formada em 
     <img style="align: center" width="40" alt="Bootstrap" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" />      
 </div>
 
----
+##
 
 <div>
     <a href="https://github.com/yasmngoncalves" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
