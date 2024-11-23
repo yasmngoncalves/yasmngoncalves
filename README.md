@@ -2,7 +2,7 @@
 
 `Front-end Developer`
 
-Oi, eu sou Yasmin Gonçalves, tenho 24 anos e sou de São Paulo. Sou formada em Design Gráfico e atualmente estou cursando minha segunda graduação em Engenharia da Computação na UNIVESP. Hoje, gosto de usar minhas experiências anteriores para desenvolver sites e aplicações web que são funcionais, intuitivos e visuais.
+Oi, eu sou Yasmin Gonçalves, tenho 24 anos e sou de São Paulo. Sou formada em Design Gráfico e atualmente estou cursando minha segunda graduação em Engenharia da Computação na UNIVESP. Hoje eu uso minhas experiências anteriores para desenvolver sites e aplicações web que são funcionais, intuitivos e visuais.
 
 ### Linguagens e Tecnologias
 
